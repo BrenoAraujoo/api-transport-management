@@ -8,11 +8,11 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.shipping</groupId>
-	<artifactId>Shipping-project</artifactId>
+	<groupId>com.transport</groupId>
+	<artifactId>Transport-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Fretes-Terceiros</name>
-	<description>Shipping management</description>
+	<name>Transport-management</name>
+	<description>Transport-management</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
